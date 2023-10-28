@@ -1,4 +1,4 @@
-
+#include <bits/stdc++.h>
 using namespace std;
 
 bool es_simetrico(const vector<int> & vector);
